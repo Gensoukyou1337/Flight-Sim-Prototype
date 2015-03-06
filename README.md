@@ -5,3 +5,5 @@ Flight Sim Prototype made after following the tutorial linked below
 https://www.youtube.com/watch?v=lCulq9J0Y9E
 
 Extras: attempt at throttle control + GUI
+
+Download both the folder and the .exe file - both are dependent on each other
